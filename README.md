@@ -33,11 +33,11 @@ Main endpoints:
 - GET: ```/products``` - returns all products.
 - GET: ```/orders``` - returns all orders.
 
-Example body for updating a new user:
+Example body for updating a user:
 ```
 {
-    "name": "Billy",
-    "email": "billy@email.com",
+    "name": "Roger That",
+    "email": "roger@email.com",
     "phone": "11223344"
 }
 ```
